@@ -113,7 +113,7 @@ export const projects = [
     description:
       "Built a web application with React and Ant Design for managing books, implementing full CRUD operations, backend with JSON Server and Express, and seamless, secure communication between frontend and backend using Axios and Request.",
     detail: "1",
-    link: "https://github.com/lilyliu0816/Book-Management-System",
+    link: "https://book-management-system-lovat.vercel.app/home",
   },
   {
     id: "2",
