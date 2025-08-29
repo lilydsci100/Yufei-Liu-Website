@@ -105,7 +105,7 @@ export const projects = [
     description:
       "Developed a desktop application using Java and JavaFX to let students view, track, and save course information",
     detail: "1",
-    link: "https://github.com/lilydsci100/Course-Management-App",
+    link: "https://github.com/lilyliu0816/Course-Management-App",
   },
   {
     id: "1",
@@ -113,7 +113,7 @@ export const projects = [
     description:
       "Built a web application with React and Ant Design for managing books, implementing full CRUD operations, backend with JSON Server and Express, and seamless, secure communication between frontend and backend using Axios and Request.",
     detail: "1",
-    link: "https://github.com/lilydsci100/Book-Management-System",
+    link: "https://github.com/lilyliu0816/Book-Management-System",
   },
   {
     id: "2",
@@ -132,7 +132,7 @@ export const projects = [
       "- Participate in building underlying data structures: stack, queue and dequeue classes using basic templates. \n" +
       "- Collaborated in rendering the entire maze on a copy of the base image by darkening the locations. ",
     detail: "1",
-    link: "https://github.com/lilydsci100/Treasure-Map-Encoding",
+    link: "https://github.com/lilyliu0816/Treasure-Map-Encoding",
   },
 ];
 
@@ -296,7 +296,7 @@ export const socials = [
     id: "0",
     title: "Github",
     icon: "/images/socials/Github.svg",
-    url: "https://github.com/lilydsci100",
+    url: "https://github.com/lilyliu0816",
   },
   {
     id: "1",
